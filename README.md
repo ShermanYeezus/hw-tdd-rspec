@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-https://travis-ci.org/ShermanYeezus/hw-tdd-rspec.svg?branch=master
-
-=======
-[![Build Status](https://travis-ci.org/ShermanYeezus/hw-tdd-rspec.svg?branch=master)](https://travis-ci.org/ShermanYeezus/hw-tdd-rspec)
->>>>>>> b2d15c54868baed993e7d092d5b0aaa7b609b0e0
 # TDD with RSpec
 
 In this assignment you will use a combination of Acceptance and
