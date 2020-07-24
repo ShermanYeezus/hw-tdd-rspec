@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ShermanYeezus/hw-tdd-rspec.svg?branch=master)](https://travis-ci.org/ShermanYeezus/hw-tdd-rspec)
+[![Build Status](https://travis-ci.com/ShermanYeezus/hw-tdd-rspec.svg?branch=master)](https://travis-ci.org/ShermanYeezus/hw-tdd-rspec)
 
 # TDD with RSpec
 
