@@ -12,7 +12,7 @@ director" feature to RottenPotatoes.
 
 Learning Goals
 --------------
-After you complete this assignment, you should be able to:
+After you complete this assignment, you should be able to:ddd
 
 * Create and run simple Cucumber scenarios to test a new feature
 
